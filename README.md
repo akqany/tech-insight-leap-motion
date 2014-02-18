@@ -1,9 +1,9 @@
 tech-insight-leap-motion
 ========================
 
-A demo showcased in AKQA NY tech insight meetup. It features the Leap Motion and Unity 3D technologies.
+The demo showcased during the AKQA NY tech insight meetup. It features the Leap Motion and Unity 3D technologies.
 
-This demo requires that you have the Leap Motion driver and Unity3D installed (Mac and PC). Please follow the steps below:
+This demo requires that you have the Leap Motion driver and Unity3D installed. Please follow the steps below:
 
 1. Set up Leap Motion driver: https://leapmotion.com/setup
 2. Install Leap Motion SDK: https://developer.leapmotion.com/downloads
